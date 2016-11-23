@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_1ed996c08274bbd794ed8dcc0367eafe379d3ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_218b3a10243a1248c4a3d1ab74218b38a85f6632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_3d3f74692e89d0d9b8b2687b99a77ccae4c39ee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_309c7bf2a725028a31fdbabf09703bb160b7a935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\glide-3.7.0_18516a1d88d77962d55da67cc833f747068b5a1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_c5f8a3af30750804da97c0f6fa1f621f285cae4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_67b8af161880ebcdf4b2207ff231f59cedc94edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_ac16c4b83eb4b0fa8e990eb6c96e84dd037bdd33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_579a1c68d75193b0c6606cd71ae56dfbc610606a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_20bea3df01acbecde4a7ddbd79801e56ac17987f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_0f8d07035844aee0896605f75a8fc99ee6b28727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3014f132c2aee53edd65f4d7a4f882840230382f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_71bd13274d5872cef5db2570d806f5e983826a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_07dacaab531966927d002d705c58a20dc1de6699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_250e11f97df1337feaf77cd1b850a8aa4b0b0940.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jurgis\Downloads\10-exercise-begin\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_aa0d5f4d851b843fda2dbad5a2432afa0dc3236b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:fillViewport="true"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<RelativeLayout
+		android:padding="10dp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<!-- Centered horizontally invisible view -->
+		<Space
+			android:id="@+id/centerView"
+			android:visibility="invisible"
+			android:layout_centerHorizontal="true"
+			android:layout_width="0dp"
+			android:layout_height="0dp"/>
+
+		<!-- label -->
+		<TextView
+			android:id="@+id/label"
+			android:textColor="#ffffff"
+			android:gravity="center"
+			android:background="#000000"
+			android:layout_width="match_parent"
+			android:layout_height="40dp"/>
+
+		<!-- Game UI -->
+		<ImageView
+			android:id="@+id/locationImage"
+			android:layout_below="@id/label"
+			android:layout_marginTop="10dp"
+			android:layout_width="128dp"
+			android:layout_height="72dp"/>
+		<TextView
+			android:id="@+id/locationText"
+			android:textSize="22sp"
+			android:textStyle="bold"
+			android:maxLines="2"
+			android:gravity="center_vertical"
+			android:layout_below="@id/label"
+			android:layout_toEndOf="@id/locationImage"
+			android:layout_marginTop="10dp"
+			android:layout_marginStart="10dp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+		<TextView
+			android:id="@+id/type"
+			android:maxLines="1"
+			android:layout_below="@id/locationText"
+			android:layout_toEndOf="@id/locationImage"
+			android:layout_marginTop="10dp"
+			android:layout_marginStart="10dp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+		<View
+			android:id="@+id/divider"
+			android:background="#cccccc"
+			android:layout_below="@id/locationImage"
+			android:layout_marginTop="10dp"
+			android:layout_marginBottom="10dp"
+			android:layout_width="match_parent"
+			android:layout_height="1dp"/>
+
+		<!-- Visiting team -->
+		<TextView
+			android:id="@+id/visitingScore"
+			android:textSize="26sp"
+			android:textStyle="bold"
+			android:gravity="center_horizontal"
+			android:layout_below="@id/divider"
+			android:layout_toStartOf="@id/centerView"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+		<ImageView
+			android:id="@+id/visitingImage"
+			android:layout_below="@id/visitingScore"
+			android:layout_width="48dp"
+			android:layout_height="48dp"/>
+		<TextView
+			android:id="@+id/visitingName"
+			android:textSize="20sp"
+			android:textAllCaps="true"
+			android:maxLines="1"
+			android:layout_below="@id/visitingScore"
+			android:layout_toEndOf="@id/visitingImage"
+			android:layout_toStartOf="@id/centerView"
+			android:layout_marginStart="10dp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+		<TextView
+			android:id="@+id/visitingStats"
+			android:textSize="16sp"
+			android:textStyle="bold"
+			android:layout_toEndOf="@id/visitingImage"
+			android:layout_toStartOf="@id/centerView"
+			android:layout_below="@id/visitingName"
+			android:layout_marginStart="10dp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+
+		<!-- Home team -->
+		<TextView
+			android:id="@+id/homeScore"
+			android:textSize="26sp"
+			android:textStyle="bold"
+			android:gravity="center_horizontal"
+			android:layout_below="@id/divider"
+			android:layout_toEndOf="@id/centerView"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+		<ImageView
+			android:id="@+id/homeImage"
+			android:layout_below="@id/homeScore"
+			android:layout_toEndOf="@id/centerView"
+			android:layout_width="48dp"
+			android:layout_height="48dp"/>
+		<TextView
+			android:id="@+id/homeName"
+			android:textSize="20sp"
+			android:textAllCaps="true"
+			android:maxLines="1"
+			android:layout_below="@id/homeScore"
+			android:layout_toEndOf="@id/homeImage"
+			android:layout_alignTop="@id/homeImage"
+			android:layout_marginStart="10dp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+		<TextView
+			android:id="@+id/homeStats"
+			android:textSize="16sp"
+			android:textStyle="bold"
+			android:layout_toEndOf="@id/homeImage"
+			android:layout_below="@id/homeName"
+			android:layout_marginStart="10dp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"/>
+	</RelativeLayout>
+</ScrollView>

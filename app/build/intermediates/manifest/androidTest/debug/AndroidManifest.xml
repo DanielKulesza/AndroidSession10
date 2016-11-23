@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="scs2682.exercise_09.test">
+
+    <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="25" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="scs2682.exercise_09"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for scs2682.exercise_09"/>
+</manifest>
